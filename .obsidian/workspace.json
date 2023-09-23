@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "ae12551359370b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcac30e2189ced0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "337a365d55633e8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a89fd75383322c79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91655106fc8fe73a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc85cedf15bc9aa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58565857a31aac62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "829a8539ee980370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecec4aeed14f3841",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96925b231ef19d6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ee39d5a1cdb7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbe89c619a57d05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b7cbde2bd985248",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc628e2ca6d751b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91a49aff5aaa31ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-projects:Open projects": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a89fd75383322c79",
+  "lastOpenFiles": [
+    "WORK/Today work.md",
+    "WORK/STATE.md",
+    "WORK/RESEARCH.md",
+    "TOOL TEACH/TYPESCRIPT.md",
+    "PROJECTS/next js/main.md",
+    "z_resource/templates/t1.md",
+    "PROJECTS/Untitled.md",
+    "PROJECTS/next js",
+    "PROJECTS/portfolio 2.0",
+    "PROJECTS",
+    "z_resource/projects/Untitled note.md",
+    "z_resource/projects/portfolio 2.0/Untitled.md",
+    "z_resource/projects/portfolio 2.0/have.md",
+    "z_resource/projects/next js/note.md",
+    "z_resource/projects/portfolio 2.0/Untitled",
+    "z_resource/projects/portfolio 2.0",
+    "z_resource/projects/next js",
+    "z_resource/projects/jp.md",
+    "z_resource/projects/documentation.md",
+    "z_resource/projects",
+    "temp.md",
+    "z_resource/templates",
+    "COLLEGE/SYLLABUS.md",
+    "PROGRAMMING MAIN/C.md",
+    "TOOL TEACH/NPM.md",
+    "demo.md",
+    "ISLAMIC",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "PROGRAMMING MAIN/CSS.md",
+    "DEVOPS/KUBERNETES.md",
+    "DEVOPS/DOCKER.md",
+    "Untitled.canvas",
+    "z_resource/docker5.png",
+    "z_resource/docker3.png",
+    "z_resource/nextjs1.png",
+    "z_resource/docker2.png",
+    "z_resource/docker1.png",
+    "z_resource/dsa1.png",
+    "_resource/06ac81727c0d442af0406b906e3ae0d5.png",
+    "z_resource/docker4.png"
+  ]
+}
