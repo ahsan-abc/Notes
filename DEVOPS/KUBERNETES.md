@@ -2,4 +2,4 @@
 - Managing microservices ( backend , frontend)
 
 
-[link with debops](DEVOPS)
+[link with debops](DEVOPS.md)

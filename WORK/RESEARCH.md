@@ -1,4 +1,5 @@
 ## Quantam computer
+
 1. **Hackerthion and event** 
 2. **Prisma ORM**
 3. **PostgreSQL** 
@@ -10,6 +11,7 @@
 9. **Golang**
 10. **Php**
 11. **strapi**
+12. **gitlab**
 
 - Redis for query caching on the server side and increasing query speeds
 - Google OAuth for Sign in with Google

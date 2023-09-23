@@ -103,4 +103,4 @@
     This command is used to build an image from a specified docker file
 
 
-[link with debops](DEVOPS)
+[link with debops](DEVOPS.md)

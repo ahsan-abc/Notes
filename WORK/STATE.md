@@ -2,17 +2,17 @@
 
 ## Routine
 
-|time| foucus|
-|---------|-----|
-|6:30 - 12:00 | Learning|
-|2:00 - magrib | Own projects|
-|magrib - 01:30 | Hackerthon/opensource|
+| time           | foucus                |
+| -------------- | --------------------- |
+| 6:30 - 12:00   | Learning              |
+| 2:00 - magrib  | Own projects          |
+| magrib - 01:30 | Hackerthon/opensource |
 
-| **LEARNING** | next js |extera info|
-|-----------|--------| ---------- |
-| **OWN PROJECTS** | portfolio 2.0 ||
-|**HACKTHON**| Hackerbertoberfest2023| |
-|**OPEN SOURCE**|||
+| **LEARNING**     | next js                | extera info |
+| ---------------- | ---------------------- | ----------- |
+| **OWN PROJECTS** | portfolio 2.0          |             |
+| **HACKTHON**     | Hackerbertoberfest2023 |             |
+| **OPEN SOURCE**  |                        |             |
 
 
 ## Staging
@@ -21,11 +21,12 @@
 - advance =  make big project / contribute 
 - master = job 
 
-|NAME     |BAISC|MEDIUM|ADVANCE|MASTER|
-|---------|-----|------|-------|------|
-|---------|-----|------|-------|------|
-| React   | yes    |  no   | no    |no  |
-|  Next js | yes | no|no|no|
+| NAME      | BAISC | MEDIUM | ADVANCE | MASTER |
+| --------- | ----- | ------ | ------- | ------ |
+| --------- | ----- | ------ | ------- | ------ |
+| React     | yes   | no     | no      | no     |
+| Next js   | yes   | no     | no      | no     |
+| node js   | yes   |        |         |        |
 
 
 
