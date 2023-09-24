@@ -8,11 +8,12 @@
 | 2:00 - magrib  | Own projects          |
 | magrib - 01:30 | Hackerthon/opensource |
 
-| **LEARNING**     | next js                | extera info |
-| ---------------- | ---------------------- | ----------- |
-| **OWN PROJECTS** | portfolio 2.0          |             |
-| **HACKTHON**     | Hackerbertoberfest2023 |             |
-| **OPEN SOURCE**  |                        |             |
+| Learning | own projects  | hackethon                                    | open source |
+| -------- | ------------- | -------------------------------------------- | ----------- |
+| -------- | ------------- | -------------------------------------------- | ----------- |
+| next js  | portfolio 2.0 | Hackerbertoberfest2023                       |  find           |
+|          |               |        find     |
+
 
 
 ## Staging

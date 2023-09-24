@@ -8,27 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "337a365d55633e8b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a89fd75383322c79",
+            "id": "62c4ef41ff2ad7f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/Today work.md",
+                "file": "WORK/STATE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f73eb3fbef4bf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/portfolio 2.0/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "984f4439da5f9a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK/STATE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "96925b231ef19d6d",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK/Today work.md",
+                "file": "WORK/STATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK/Today work.md",
+                "file": "WORK/STATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/Today work.md"
+                "file": "WORK/STATE.md"
               }
             }
           },
@@ -166,11 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a89fd75383322c79",
+  "active": "62c4ef41ff2ad7f2",
   "lastOpenFiles": [
+    "PROJECTS/portfolio 2.0/main desining.md",
+    "PROJECTS/portfolio 2.0/README.md",
     "WORK/STATE.md",
-    "WORK/RESEARCH.md",
     "WORK/Today work.md",
+    "WORK/RESEARCH.md",
     "DEVOPS/DEVOPS.md",
     "DEVOPS/DOCKER.md",
     "TOOL TEACH/TYPESCRIPT.md",
@@ -201,9 +219,7 @@
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
-    "PROGRAMMING MAIN/CSS.md",
     "Untitled.canvas",
     "z_resource/docker5.png",
     "z_resource/docker3.png",
