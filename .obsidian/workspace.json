@@ -8,54 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62c4ef41ff2ad7f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING MAIN/REACT JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da05f514b56d27c8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "311a96565acff5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WORK/2023-09-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd0472e0be18b306",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "984f4439da5f9a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/STATE.md",
+                "file": "WORK/Today work.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING MAIN/REACT JS.md",
+                "file": "WORK/Today work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING MAIN/REACT JS.md",
+                "file": "WORK/Today work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING MAIN/REACT JS.md"
+                "file": "WORK/Today work.md"
               }
             }
           },
@@ -200,14 +158,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62c4ef41ff2ad7f2",
+  "active": "984f4439da5f9a86",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md",
+    "TOOL TEACH/TYPESCRIPT.md",
+    "z_resource/Pasted image 20230924103321.png",
+    "z_resource/Pasted Image 20230924102441_611.png",
+    "DEVOPS/DOCKER.md",
     "PROGRAMMING MAIN/REACT JS.md",
-    "Pasted image 20230924103321.png",
+    "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md",
     "WORK/2023-09-24.md",
-    "Untitled.canvas",
-    "Pasted Image 20230924102441_611.png",
+    "z_resource/Untitled.canvas",
     "Excalidraw",
     "WORK/STATE.md",
     "PROJECTS/portfolio 2.0/README.md",
@@ -215,8 +175,6 @@
     "PROJECTS/portfolio 2.0/main desining.md",
     "WORK/RESEARCH.md",
     "DEVOPS/DEVOPS.md",
-    "DEVOPS/DOCKER.md",
-    "TOOL TEACH/TYPESCRIPT.md",
     "PROJECTS/next js/main.md",
     "z_resource/templates/t1.md",
     "PROJECTS/Untitled.md",

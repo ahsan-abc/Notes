@@ -4,8 +4,9 @@
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
     "emojiStyle": "none",
-    "iconColor": "#ffffff",
+    "iconColor": "#540aff",
     "recentlyUsedIcons": [
+      "FabDrawPolygon",
       "SiCodeproject",
       "TiSwitch2",
       "TiReportSearch",
@@ -19,8 +20,7 @@
       "SiTailwindcss",
       "SiRedis",
       "SiPnpm",
-      "SiNpm",
-      "SiBootstrap"
+      "SiNpm"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -71,5 +71,6 @@
   "ISLAMIC": "FabMosque",
   "WORK/RESEARCH.md": "TiReportSearch",
   "WORK/STATE.md": "TiSwitch2",
-  "PROJECTS": "SiCodeproject"
+  "PROJECTS": "SiCodeproject",
+  "Excalidraw": "FabDrawPolygon"
 }
