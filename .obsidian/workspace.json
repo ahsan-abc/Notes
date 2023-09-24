@@ -13,22 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/STATE.md",
+                "file": "PROGRAMMING MAIN/REACT JS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f73eb3fbef4bf98",
+            "id": "da05f514b56d27c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "311a96565acff5d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/portfolio 2.0/README.md",
+                "file": "WORK/2023-09-24.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "bd0472e0be18b306",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -93,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "96925b231ef19d6d",
@@ -110,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK/STATE.md",
+                "file": "PROGRAMMING MAIN/REACT JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK/STATE.md",
+                "file": "PROGRAMMING MAIN/REACT JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORK/STATE.md"
+                "file": "PROGRAMMING MAIN/REACT JS.md"
               }
             }
           },
@@ -167,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,10 +202,17 @@
   },
   "active": "62c4ef41ff2ad7f2",
   "lastOpenFiles": [
-    "PROJECTS/portfolio 2.0/main desining.md",
-    "PROJECTS/portfolio 2.0/README.md",
+    "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md",
+    "PROGRAMMING MAIN/REACT JS.md",
+    "Pasted image 20230924103321.png",
+    "WORK/2023-09-24.md",
+    "Untitled.canvas",
+    "Pasted Image 20230924102441_611.png",
+    "Excalidraw",
     "WORK/STATE.md",
+    "PROJECTS/portfolio 2.0/README.md",
     "WORK/Today work.md",
+    "PROJECTS/portfolio 2.0/main desining.md",
     "WORK/RESEARCH.md",
     "DEVOPS/DEVOPS.md",
     "DEVOPS/DOCKER.md",
@@ -215,12 +240,6 @@
     "TOOL TEACH/NPM.md",
     "demo.md",
     "ISLAMIC",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project",
-    "Untitled.canvas",
     "z_resource/docker5.png",
     "z_resource/docker3.png",
     "z_resource/nextjs1.png",
