@@ -2,9 +2,9 @@
 | Topic          | state |
 | -------------- | ----- |
 |1. [Basic](##1.BASIC)          | ✅    |
-|2. Object         |    |
-|3. Dom            |       |
-|4. Event          |       |
+|2. [Object](##2.OBJECT)         | ✅    |
+|3. [Dom](##3.DOM)     |       |
+|4. [Event](##4.EVENT)               |       |
 |5. Asynchunous    |       |
 |6. OOP            |       |
 |7. Error handling |       |
@@ -15,6 +15,8 @@
 
 ## 1. BASIC 
 ---
+---
+
 
 ### what 
 -  lightweight interpreted  , high level , multi-paradigm , single-threded , dynamically-typed , programming language.
@@ -133,6 +135,7 @@ example.html
 
 ## 2. OBJECT
 ---
+---
 - **Nearly in js everything is an object except primitive type. **
 - **But primitive also have object version (obejct wrapper).**
 
@@ -224,11 +227,43 @@ let obj = new Person ("ahsan",15);
    - toPrecision()
    - toString()
 ### Boolean
-
+- Boolean is an object , that represents value in two state true or false
+- var b = Boolean (true);
+- method
+  - toSource()
+  - toString()
+  - valueOf()
 ### Date
+- Date object can used to get , year, month
+- 4 varient od Date constructor to create date object 
+    1. Date()
+    2. Date(milisecond)
+    3. Date(dateString)
+    4. Date(year,month,day,hours,minutes,secinds,milliseconds)
+- Date methods
+    - getDate()
+    - getDay()
+    - getFullyears()
+    - getHours()
+    - getMilliSeconds() , etc
 ### Math
+- math obejct provides several constant and methods to perform mathmatical operation.
+- unlink date object it doesn't have constructor
+- method
+  - abs() , acos() , asin() , atan()
+  - cbrt() , ceil() , cos() , cosh() 
+  - exp() , floor() , hypot() , log()
+  - max() , min() ,pow() , random()
+  - sign() , sin() , sinh() , sqrt()
+  - tan() , tanh() , trunc()
 
-## DOM 
+
+## 3. DOM 
+
+### Javascript in browser
+- The browser has an embendded engine called js engine or js runtime.
+- It is responsivel to run js code
+- 
  
 
 
