@@ -11,24 +11,8 @@
             "id": "984f4439da5f9a86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING MAIN/JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1578294298b5ce27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING MAIN/REACT JS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING MAIN/JAVASCRIPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING MAIN/JAVASCRIPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PROGRAMMING MAIN/JAVASCRIPT.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,8 +153,10 @@
   },
   "active": "984f4439da5f9a86",
   "lastOpenFiles": [
-    "PROGRAMMING MAIN/REACT JS.md",
+    "Untitled.canvas",
+    "WORK/2023-09-25.md",
     "PROGRAMMING MAIN/JAVASCRIPT.md",
+    "PROGRAMMING MAIN/REACT JS.md",
     "PROJECTS/Socail Media.md",
     "PROJECTS/cal.com.md",
     "PROJECTS/BioDrop.md",
@@ -206,9 +189,7 @@
     "z_resource/projects/portfolio 2.0",
     "z_resource/projects/next js",
     "z_resource/projects/jp.md",
-    "z_resource/projects/documentation.md",
     "z_resource/projects",
-    "temp.md",
     "z_resource/templates",
     "ISLAMIC",
     "z_resource/docker5.png",
