@@ -259,12 +259,87 @@ let obj = new Person ("ahsan",15);
 
 
 ## 3. DOM 
+---
+---
 
 ### Javascript in browser
 - The browser has an embendded engine called js engine or js runtime.
 - It is responsivel to run js code
-- 
- 
 
+
+### console object 
+- Inbuilt objetct , The console object in JavaScript provides access to the browser's debugging console.
+- console object method
+   - arsert() ---> used to assert a condtion
+   - clear()  ---> clear the console
+   - log()    ---> output a message to the console
+   - table()  ---> display a tabular data
+   - warn()  ---> used for warning
+   - error()  ---> used for special info 
+
+### Interaction
+- 1. alert : used to invoke a mini window with a msg => alert("helloo")
+- 2. prompt : used to take user input as string prompt("head","input box")
+- 3. confirm : shows a message ask yes or no => confirm ("do you want to delete")
+
+### window object 
+- The window object is supported by all browsers. **It represents the browser's window (display)**.
+- All global JavaScript objects, functions, and variables automatically become members of the window object.
+![[Pasted image 20230925152923.png]]
+### bom
+- The browser  object model represents additional object provided by the browser (host enviroment) for working with everything except the documnet.
+- The function alert, confirm, prompt are also a part of the bom.
+
+### dom
+- dom stand for document object model.
+- The document object represents the whole html documnet .
+- documnet object is the root element that represent html documnet, it has properities & methods.
+- with the help of documnet object perform dynamic change in html.
+- the dom tree , window.document = document
+
+![[Pasted image 20230925154112.png]]
+
+- There are three type of nodes in the DOM tree
+  1. element node ---> \<h1> hello world\</h1>  
+  2. text node  ---> hello world
+  3. commnet node --->  \<!-- comment -->
+
+- methods 
+  - write("string") ---> write the given string on the document
+  - writeln("string") ---> write teh given string on the documnet with newline 
+  - getElementById("id") ---> return the element having id value
+  - getElementByName("name") ---> return all the element having the given name
+  - getElementByTagName("name") --->return all the ele having the given tagname
+  - getElementByClassName("name") ---> return all the ele having the class name
+  - querySelectorAll("css selector") ---> return all the elemt match with css selector
+  - querySelector("css selector") ---> return first the elemt match with css selector
+
+### children of an element 
+- ele.firstchild ---> access first child node of ele
+-  ele.lastchild ---> access last child node of ele
+-  ele.childNodes[index] ---> access child node of ele by index
+
+-  ele.firstElementchild ---> accress first child ele of ele
+- ele.lastElementchild ---> access last child element of the element
+- ele.children[index]  ---> access child ele by index
+
+### sibling & parent of an element node
+- node.nextsibling ---> access next node
+- node.PreviousSibling ---> access previous node
+- node.parentNode ---> access parent elemnt
+
+- node.nextElementsibling ---> access next node element
+- node.PreviousElementSibling ---> access previous elemt
+- node.parentElement ---> access parent elemt
+
+### attribute of an element
+- elem.hasAttribute("name") ---> check existence of an attribute
+- elem.getAttribute("name") ---> used to get value of an attribute
+- elem.setAttribute("name", "value") ---> set Attribute value
+- elem.removeAttribute("name") ---> remove teh attribute from elemt
+- elem.attributes() ---> get the collection of all attributes
+
+### some important thing
+- elem.innerHTML ---> 
 
 [web devlopment](WEB_DEVLOPMENT)
