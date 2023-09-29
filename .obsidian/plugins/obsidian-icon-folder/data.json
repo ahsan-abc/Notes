@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": "#540aff",
     "recentlyUsedIcons": [
+      "SiGithub",
+      "TiFileDots",
+      "TiHome",
       "FabDrawPolygon",
       "SiCodeproject",
       "TiSwitch2",
@@ -17,10 +20,7 @@
       "SiInstructure",
       "SiYarn",
       "SiTypescript",
-      "SiTailwindcss",
-      "SiRedis",
-      "SiPnpm",
-      "SiNpm"
+      "SiTailwindcss"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -52,7 +52,6 @@
   "PROGRAMMING BASIC/COMPUTER NETWORK.md": "LiNetwork",
   "PROGRAMMING BASIC/DBMS.md": "LiDatabase",
   "PROGRAMMING BASIC/DSA.md": "IbDatabse",
-  "PROGRAMMING BASIC/GIT AND GITHUB.md": "SiGit",
   "PROGRAMMING BASIC/LINUX COMMAND.md": "IbCommand",
   "PROGRAMMING BASIC/MARKDOWN.md": "SiMarkdown",
   "PROGRAMMING BASIC/MATH FOR PROGRAMMING.md": "TiMath",
@@ -72,5 +71,8 @@
   "WORK/RESEARCH.md": "TiReportSearch",
   "WORK/STATE.md": "TiSwitch2",
   "PROJECTS": "SiCodeproject",
-  "Excalidraw": "FabDrawPolygon"
+  "HOME.md": "TiHome",
+  "PROGRAMMING BASIC/YAML.md": "TiFileDots",
+  "PROGRAMMING BASIC/GIT.md": "SiGit",
+  "PROGRAMMING BASIC/GITHUB.md": "SiGithub"
 }

@@ -1,14 +1,14 @@
 ## Syllabus
-| Topic          | state |
-| -------------- | ----- |
-|1. [Basic](##1.BASIC)          | ✅    |
-|2. [Object](##2.OBJECT)         | ✅    |
-|3. [Dom](##3.DOM)     |       |
-|4. [Event](##4.EVENT)               |       |
-|5. Asynchunous    |       |
-|6. OOP            |       |
-|7. Error handling |       |
-|8. Advance Js     |       |
+| Topic                                   | state |
+| --------------------------------------- | ----- |
+| 1. [Basic](##1.BASIC)                   | ✅    |
+| 2. [Object](##2.OBJECT)                 | ✅    |
+| 3. [Dom](##3.DOM)                       | ✅    |
+| 4. [Event](##4.EVENT)                   | ✅    |
+| 5. [Asynchunous](##5.ASYNCHRONOUS)      |       |
+| 6. [OOP](##6.OOP)                       |       |
+| 7. [Error handling](##7.ERROR-HANDLING) |       |
+| 8. [Advance Js](##8.ADVANCE-JS)         |       |
 
 
 
@@ -340,6 +340,117 @@ let obj = new Person ("ahsan",15);
 - elem.attributes() ---> get the collection of all attributes
 
 ### some important thing
-- elem.innerHTML ---> 
+- elem.innerHTML ---> use to write html in element
+- elem.innertext ---> use to write text in elem
+- elem.matches(css selector) ---> to check if elem matches the given css selector                                                           with elem
+- elem.closet(css selector) ---> to took nearest ancestor that match the given css                                                     selector the itself is also checked
+- elem-a.contains(elem-b)  --->  true if elem-a == elem-b , else false
+- console.dir(element)  ---> shows the element as an obejct with its properties
+- elem.textContent ---> show only text in the element 
+
+### create & insert element
+**way 1**
+- step 1 : create ---> var a = document.CreateElement('div')
+- step 2 : assign a class ---> a.className = 'box'
+- step 3: (optional) a.innerHTML = '\<h1> hello \</h1>'
+- step 4: insert ---> document.body.append(a) 
+- some other method to insert 
+   - node.append(a) ---> append at end the node
+   -  node.prepend(a) ---> append in beginning node
+   -  node.before(a) ---> append before the node
+   -  node.after(a) ---> append after the node
+   -  node.replacewith(a) ---> replace  
+**way 2**
+ - node.insertAdjacentHTNL("beforebegin",'\<p>hello\<p>')
+ -  beforebegin --> before node
+ -  afterend ---> after node
+ - afterbegin ---> into node in begining
+ - beforeend ---> into node in the end
+
+### Some important method 
+- node.remove() ---> to remove node
+- elem.classList.add\/remove('class')  ---> add/remove class
+- elem.classList.toggle('class') ---> add if not else remove
+- elem.classList.contains('class') ---> check for given class contain or not
+
+## 4. EVENT
+---
+---
+**A event is an action that occures as per the user's instruction as input gives the output in response  *eg- mouse click , button press***
+
+### event handle
+- **1. using attributes :** \<button onclick = "function()">click\<button>
+   - onclick  ---> when mouse click
+   - onmouseover ---> cursor of the mouse over the ele
+   - onmouseout ---> cursor of the mouse leaves the elem
+   - onmousedown ---> mouse button is pressed
+   - onmouseup ---> mouse button is released
+   - onmousemove ---> mouse movemnet take place
+   - onkeydown , onkeyup , onkeypress , onload , onunload , onresize, onfocus , onsubmit , onblur , onchange.
+- **2. using addEventListener / removeEventListener**
+   - elem.addEventListener("event", handler)
+    - event eg : click , hover
+    - handler : function that run when event occurs 
+
+### the event object 
+- when an event happens , the browser creates an event object , put details into it and passes it as an argument to the handler.
+- event object property  : event.type , event.currentTarget
+- elem.addEventListener("click ", (event)=> { console.log(event.type)})
+
+
+## 5. ASYNCHRONOUS 
+---
+---
+- **js is a synchronous , blocking , single-thereaded programming language.**
+- **that means that instruction can run on after anotehr , and not in parallel.**
+- **but we also can use asynchronous, non-blocking programming**
+
+### asynchronous 
+- asynchronous programming is an essntial concept in js that allows your code to run in the backgound without blocking the execution of other code
+- callbacks , async/await and promises.
+- setTimeout() ,setInterval(). 
+
+### callback
+### promise
+### await/async
+
+
+## 6. OOP
+---
+---
+__proto__
+
+
+## 7. ERROR-HANDLING
+---
+---
+
+## 8. ADVANCE-JS
+---
+---
+### eventloop
+- The **event loop** is the secret behind JavaScript’s asynchronous programming.
+- JS executes all operations on a single thread, but using a few smart data structures, it gives us the illusion of multi-threading. 
+- Let’s take a look at what happens on the back-end.
+![[Pasted image 20230926194146.png]]
+
+
+## Browser Storage
+- Cookies, local storage, and session storage are the three methods that are most frequently used to save data locally on browsers.
+![[Pasted image 20230926190934.png]]
+1. **cookies**
+2. **sessionStorage**
+3. **local storage**
+- storage event
+### Caching
+- Yes, caching is a way to store something in RAM , and use it
+### IIFE
+
+
+## fetchApi
+
+## hoisting
+### closures
+
 
 [web devlopment](WEB_DEVLOPMENT)
