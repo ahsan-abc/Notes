@@ -3,15 +3,15 @@
 
 ### why
 
-### jsx
-**Props and State**
 
-use state
+
+
+
 **State Management**
-**React Router**
 **Lists and Keys**
 **Conditional Rendering**
 **Handling Events**
+
 ### setup
 - create react app : `npx create-react-app "name"`
 -  run react app :   `cd name ` => `npm start`
@@ -58,11 +58,9 @@ functio Hello (props)
   )
 
 }
-
 //call <Hello name = "ahsan"/>
-
 ```
-
+- props types
 
 ### lifecycle of a component
 ![[react1.png]]
@@ -84,16 +82,58 @@ const [count,setCount] = useState(1);
 
 
 ### useEffect hook
+- run code during the change in lifecycle of a component
 - use for run function for specific movement , mounting , udating , unmounting time of a component
 ```jsx
 
-1. when construct componet or  update then run 
-2. when construct component or update particlar var 
+1. run when  mount 
+-  useEffect(() => {
+    console.log("in useEffect");
+  }, [])
+ 
+2. run when  mount or update particlar var
+-  useEffect(() => {
+    console.log("in useEffect");
+  }, [var])
 
+3. run when  mount or update var and  un-mount(run return fun also)
+-  useEffect(() => {
+    console.log("in useEffect");
+       return function()
+       {
+       }
+  }, [var])
 
 ```
 
+### some another hook
+- useContext
+- useRef
+- useReducer
+- useCallback
+- useMemo
+- useLocation
+- custom hooks
+
+### react context api
+- alternative of  React Context api -->   redux or **Zustand**  or Jotai or Recoil
+
+### redux and redux toolkit, redux thung
+### react router dom
+
+
+### react query
+- react query standardize the way to make call api in react
+- provides features 
+   - client side cashing
+   - error handling
+   - refetching the data
+   
+
+
 library called **React Query**.
-**React Context** ,  redux or **Zustand**  or Jotai or Recoil
+**Testing React applications**
 **Vite**
+
+
 [web devlopment](WEB_DEVLOPMENT)

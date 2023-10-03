@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": "#540aff",
     "recentlyUsedIcons": [
+      "LiTextCursor",
+      "TiRoad",
       "SiGithub",
       "TiFileDots",
       "TiHome",
@@ -18,9 +20,7 @@
       "SiWorkplace",
       "TiCode",
       "SiInstructure",
-      "SiYarn",
-      "SiTypescript",
-      "SiTailwindcss"
+      "SiYarn"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -74,5 +74,7 @@
   "HOME.md": "TiHome",
   "PROGRAMMING BASIC/YAML.md": "TiFileDots",
   "PROGRAMMING BASIC/GIT.md": "SiGit",
-  "PROGRAMMING BASIC/GITHUB.md": "SiGithub"
+  "PROGRAMMING BASIC/GITHUB.md": "SiGithub",
+  "ROAD MAP.md": "TiRoad",
+  "EXTRA": "LiTextCursor"
 }

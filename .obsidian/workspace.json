@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d173b63d1d9e1fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_resource/react1.png"
-              }
-            }
-          },
-          {
-            "id": "91f78d74340c2016",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_resource/react1.png"
-              }
-            }
-          },
-          {
             "id": "7c4be07dcec7187f",
             "type": "leaf",
             "state": {
@@ -38,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20cd4686a79ab5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMING MAIN/NEXT JS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad6b5a1ae1b7e967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/Target Contribute.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1452bdcd33b9456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXTRA/Important-package-nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "EXTRA/Important-package-nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "EXTRA/Important-package-nodejs.md"
               }
             }
           },
@@ -147,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "EXTRA/Important-package-nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,12 +190,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c4be07dcec7187f",
+  "active": "b1452bdcd33b9456",
   "lastOpenFiles": [
+    "HOME.md",
+    "EXTRA/Important-package-nodejs.md",
+    "PROJECTS/Target Contribute.md",
+    "PROGRAMMING MAIN/NEST JS.md",
+    "TOOL TEACH/REDIS.md",
+    "EXTRA",
+    "PROJECTS/Target Own projects.md",
+    "WORK/STATE.md",
     "PROGRAMMING MAIN/REACT JS.md",
+    "PROGRAMMING MAIN/NEXT JS.md",
+    "ROAD MAP.md",
+    "Drawing 2023-10-01 11.32.27.excalidraw.md",
+    "z_resource",
     "PROGRAMMING BASIC/MARKDOWN.md",
     "_resource/react1.png",
-    "HOME.md",
     "_resource/Pasted image 20230928101701.png",
     "_resource/Pasted image 20230928105443.png",
     "_resource/Pasted image 20230925154112.png",
@@ -192,7 +219,6 @@
     "_resource/Pasted image 20230926194146.png",
     "PROGRAMMING BASIC/GITHUB.md",
     "PROGRAMMING BASIC/OPEN SOURCE.md",
-    "WORK/STATE.md",
     "PROJECTS/H-hakctoberfest2023.md",
     "PROGRAMMING MAIN/PYTHON.md",
     "_resource/Drawing 2023-09-27 15.03.32.excalidraw.md",
@@ -205,14 +231,6 @@
     "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md",
     "Excalidraw/Drawing 2023-09-26 11.08.04.excalidraw.md",
     "PROGRAMMING MAIN/JAVASCRIPT.md",
-    "PROGRAMMING BASIC/SOFTWERE ENGINERING.md",
-    "PROGRAMMING BASIC/GIT.md",
-    "WORK/RESEARCH.md",
-    "DEVOPS/DOCKER.md",
-    "COLLEGE/SYLLABUS.md",
-    "DEVOPS/DEVOPS.md",
-    "PROGRAMMING BASIC/YAML.md",
-    "TOOL TEACH/TYPESCRIPT.md",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas",
@@ -222,8 +240,6 @@
     "z_resource/projects/portfolio 2.0/Untitled",
     "z_resource/projects/portfolio 2.0",
     "z_resource/projects/next js",
-    "z_resource/projects",
-    "_resource/templates",
-    "ISLAMIC"
+    "z_resource/projects"
   ]
 }

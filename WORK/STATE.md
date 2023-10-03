@@ -1,11 +1,14 @@
 
 ## Routine
 
-| time           |               foucus               |
-| -------------- |:----------------------------------:|
-| 8:30 - magrib  |        Learning  one topic         |
-| magrin to isha |           copy a project           |
-| isha - 01:30   | Hackerthon/opensource/own projects |
+| time           | foucus                    |
+|:-------------- |:------------------------- |
+| isha to fazar  | 1. Learning  one topic    |
+| magrib to isha | 2. make own project       |
+| day            | 3. contribute on projects |
+
+
+
 
 ## Staging
 - 0 = nothing
