@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20cd4686a79ab5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING MAIN/NEXT JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad6b5a1ae1b7e967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROJECTS/Target Contribute.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1452bdcd33b9456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXTRA/Important-package-nodejs.md",
+                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EXTRA/Important-package-nodejs.md",
+                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXTRA/Important-package-nodejs.md"
+                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md"
               }
             }
           },
@@ -163,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EXTRA/Important-package-nodejs.md",
+                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,22 +153,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1452bdcd33b9456",
+  "active": "7c4be07dcec7187f",
   "lastOpenFiles": [
+    "PROGRAMMING/FRAMEWORK/FLUTTE.md",
+    "PROGRAMMING/FRAMEWORK/ELECTRON.md",
+    "PROGRAMMING/FRAMEWORK/REACT NATIVE.md",
+    "PROGRAMMING/FRAMEWORK/,NET.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/ASSEMBLY LANGUAGE.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/R.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/SWIFT.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/RUST.md",
+    "PROGRAMMING/Untitled.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/GOLANGE.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/C sharp.md",
+    "PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
     "HOME.md",
-    "EXTRA/Important-package-nodejs.md",
+    "PROGRAMMING/FRAMEWORK/FRAMEWORK 7.md",
+    "PROGRAMMING",
+    "PROGRAMMING/FRAMEWORK",
+    "PROGRAMMING/PROGRAMMING LANGUAGE",
+    "PROGRAMMING/EXTRA/REACT JS.md",
+    "PROGRAMMING/FRAMEWORK/NEXT JS.md",
+    "PROGRAMMING/EXTRA/HTML.md",
+    "PROGRAMMING/FRAMEWORK/NEST JS.md",
+    "PROGRAMMING/BASIC/GIT.md",
     "PROJECTS/Target Contribute.md",
-    "PROGRAMMING MAIN/NEST JS.md",
-    "TOOL TEACH/REDIS.md",
-    "EXTRA",
+    "PROGRAMMING/TOOL TEACH/REDIS.md",
+    "PROGRAMMING/EXTRA",
     "PROJECTS/Target Own projects.md",
     "WORK/STATE.md",
-    "PROGRAMMING MAIN/REACT JS.md",
-    "PROGRAMMING MAIN/NEXT JS.md",
     "ROAD MAP.md",
     "Drawing 2023-10-01 11.32.27.excalidraw.md",
     "z_resource",
-    "PROGRAMMING BASIC/MARKDOWN.md",
+    "PROGRAMMING/BASIC/MARKDOWN.md",
     "_resource/react1.png",
     "_resource/Pasted image 20230928101701.png",
     "_resource/Pasted image 20230928105443.png",
@@ -213,33 +193,16 @@
     "_resource/Pasted image 20230924103321.png",
     "_resource/Pasted Image 20230924102441_611.png",
     "_resource/Drawing 2023-09-27 15.03.32.excalidraw.png",
-    "_resource/Drawing 2023-09-28 15.37.50.excalidraw.md",
     "_resource/Pasted image 20230926190934.png",
     "_resource/Pasted image 20230925152923.png",
     "_resource/Pasted image 20230926194146.png",
-    "PROGRAMMING BASIC/GITHUB.md",
-    "PROGRAMMING BASIC/OPEN SOURCE.md",
-    "PROJECTS/H-hakctoberfest2023.md",
-    "PROGRAMMING MAIN/PYTHON.md",
-    "_resource/Drawing 2023-09-27 15.03.32.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 15.02.13.excalidraw.md",
     "Excalidraw",
-    "PROJECTS/BioDrop.md",
-    "PROJECTS/cal.com.md",
-    "PROJECTS/portfolio 2.0.md",
-    "WEB_DEVLOPMENT.md",
-    "Excalidraw/Drawing 2023-09-24 10.24.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-26 11.08.04.excalidraw.md",
-    "PROGRAMMING MAIN/JAVASCRIPT.md",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas",
     "PROJECTS/next js",
     "PROJECTS/portfolio 2.0",
     "PROJECTS",
-    "z_resource/projects/portfolio 2.0/Untitled",
-    "z_resource/projects/portfolio 2.0",
-    "z_resource/projects/next js",
-    "z_resource/projects"
+    "z_resource/projects/portfolio 2.0/Untitled"
   ]
 }

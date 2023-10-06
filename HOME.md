@@ -1,4 +1,6 @@
+# chaching invalidation and naming thing is hard 
 
+# remote repositories , remote ssh , remote containers  extension
 [[STATE ]]  [[RESEARCH ]] 
 MONEY
 #### TODAY (1 /10/23) @3
