@@ -4,22 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "c5afd53ea19c77c7",
+        "id": "0113a525ef477128",
         "type": "tabs",
         "children": [
           {
-            "id": "7c4be07dcec7187f",
+            "id": "64809847a1246d69",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENGLISH/WORDS MEANING.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "59222997f3d6b565",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROGRAMMING/EXTRA/2. NODE JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "974e6dd59909d14b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -38,7 +67,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md"
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md"
               }
             }
           },
@@ -126,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING/FRAMEWORK/ELECTRON.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,39 +182,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c4be07dcec7187f",
+  "active": "974e6dd59909d14b",
   "lastOpenFiles": [
-    "PROGRAMMING/FRAMEWORK/FLUTTE.md",
+    "Pasted image 20231009192833.png",
+    "PROGRAMMING/EXTRA/2. NODE JS.md",
+    "PROGRAMMING/TOOL TEACH/MONGODB.md",
+    "PROGRAMMING/TOOL TEACH/Untitled.md",
+    "ENGLISH/WORDS MEANING.md",
+    "_resource/Pasted image 20231009091700.png",
+    "ISLAMIC/ARBIC/1.MAKHARIJ.md",
+    "ENGLISH",
+    "_resource/Pasted image 20231008183221.png",
+    "_resource/Capture.jpg",
+    "PROGRAMMING/TOOL TEACH/PRISMA.md",
+    "PROGRAMMING/TOOL TEACH/GRAPH-QL.md",
+    "WORK/RESEARCH.md",
+    "ISLAMIC/Untitled 1.md",
+    "ISLAMIC/ARBIC",
+    "PROGRAMMING/EXTRA/1. CSS.md",
+    "PROGRAMMING/EXTRA/CSS 1.md",
+    "PROGRAMMING/EXTRA/3. REACT JS.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/6. PYTHON.md",
+    "PROGRAMMING/PROGRAMMING LANGUAGE/4. JAVA.md",
+    "PROGRAMMING/BASIC/11. COMPUTER NETWORK.md",
+    "PROGRAMMING/BASIC/10. LINUX COMMAND.md",
+    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+    "PROGRAMMING/BASIC/8. YAML.md",
+    "PROGRAMMING/BASIC/7. DSA.md",
+    "PROGRAMMING/BASIC/6. GIT.md",
+    "PROGRAMMING/CHALLENGES/CP.md",
+    "PROGRAMMING/BASIC/GITHUB 1.md",
+    "PROGRAMMING/MARKUP LANGUAGE/XML.md",
+    "PROGRAMMING/MARKUP LANGUAGE",
+    "PROGRAMMING/MARKUP.md",
     "PROGRAMMING/FRAMEWORK/ELECTRON.md",
-    "PROGRAMMING/FRAMEWORK/REACT NATIVE.md",
-    "PROGRAMMING/FRAMEWORK/,NET.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/ASSEMBLY LANGUAGE.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/R.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/SWIFT.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/RUST.md",
-    "PROGRAMMING/Untitled.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/GOLANGE.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/C sharp.md",
-    "PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
-    "HOME.md",
-    "PROGRAMMING/FRAMEWORK/FRAMEWORK 7.md",
+    "PROGRAMMING/CHALLENGES",
     "PROGRAMMING",
     "PROGRAMMING/FRAMEWORK",
     "PROGRAMMING/PROGRAMMING LANGUAGE",
-    "PROGRAMMING/EXTRA/REACT JS.md",
-    "PROGRAMMING/FRAMEWORK/NEXT JS.md",
-    "PROGRAMMING/EXTRA/HTML.md",
-    "PROGRAMMING/FRAMEWORK/NEST JS.md",
-    "PROGRAMMING/BASIC/GIT.md",
-    "PROJECTS/Target Contribute.md",
-    "PROGRAMMING/TOOL TEACH/REDIS.md",
     "PROGRAMMING/EXTRA",
-    "PROJECTS/Target Own projects.md",
-    "WORK/STATE.md",
-    "ROAD MAP.md",
-    "Drawing 2023-10-01 11.32.27.excalidraw.md",
     "z_resource",
-    "PROGRAMMING/BASIC/MARKDOWN.md",
     "_resource/react1.png",
     "_resource/Pasted image 20230928101701.png",
     "_resource/Pasted image 20230928105443.png",
@@ -193,16 +229,9 @@
     "_resource/Pasted image 20230924103321.png",
     "_resource/Pasted Image 20230924102441_611.png",
     "_resource/Drawing 2023-09-27 15.03.32.excalidraw.png",
-    "_resource/Pasted image 20230926190934.png",
-    "_resource/Pasted image 20230925152923.png",
-    "_resource/Pasted image 20230926194146.png",
     "Excalidraw",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
-    "_resource/Untitled.canvas",
-    "PROJECTS/next js",
-    "PROJECTS/portfolio 2.0",
-    "PROJECTS",
-    "z_resource/projects/portfolio 2.0/Untitled"
+    "_resource/Untitled.canvas"
   ]
 }
