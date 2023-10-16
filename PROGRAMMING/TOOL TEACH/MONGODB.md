@@ -57,5 +57,3 @@ app.listen(3000, () => {
 ```
 
 
-### model view controller
-![[Pasted image 20231009192833.png]]

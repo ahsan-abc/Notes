@@ -1,4 +1,3 @@
-# chaching invalidation and naming thing is hard 
 
 # remote repositories , remote ssh , remote containers  extension
 [[STATE ]]  [[RESEARCH ]] 

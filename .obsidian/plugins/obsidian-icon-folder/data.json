@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": "#22c4ec",
     "recentlyUsedIcons": [
+      "LiAlignCenterVertical",
       "RiEnglishInput",
       "IbTriangleUp",
       "SiGraphql",
@@ -19,8 +20,7 @@
       "SiDotnet",
       "SiLitiengine",
       "SiR",
-      "SiSwift",
-      "SiRust"
+      "SiSwift"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -98,5 +98,6 @@
   "ISLAMIC/ARBIC": "FabLanguage",
   "PROGRAMMING/TOOL TEACH/GRAPH-QL.md": "SiGraphql",
   "PROGRAMMING/TOOL TEACH/PRISMA.md": "IbTriangleUp",
-  "ENGLISH": "RiEnglishInput"
+  "ENGLISH": "RiEnglishInput",
+  "INTERVIEW": "LiAlignCenterVertical"
 }

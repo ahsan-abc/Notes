@@ -1,27 +1,27 @@
 
-## what
+### what
 
 - Docker is a container platform that allows you to build, test and deploy applications quickly
 - A developer defines all the applications and it’s dependencies in a Dockerfile which is then used to build Docker images that defines a Docker container.
 - Doing this ensures that your application will run in any environment
 
-## why
+### why
 
 - Microservices, Data Processing, Continuous Integration and Delivery, Containers as a Service.  
     ![[docker2.png]]   
     ![[docker5.png]]
     ![[docker3.png]]
 
-## Docker Image
+### Docker Image
 
 - A Docker Image is a file that defines a Docker Container.
 - image (class) , containers (instance)
 
-## Docker container
+### Docker container
 
 - A container is a runnable instance of an image.
 
-## Build docker image
+### Build docker image
 
 1.  Create a file named ‘Dockerfile’
 2.  inside put
@@ -31,21 +31,73 @@
         CMD \[“echo”, “Hello World”\]
 3.  cmd : `docker build -t "tag_name" .`
 
-## Docker architecture
+### Docker architecture
 
 ![[docker4.png]]
 
-## Docker components
+### Docker components
 
 ![[docker1.png]]
 
-## Docker daemon
+### Docker daemon
 
-## Docker client
+### Docker client
 
-## Docker registries
+### Docker registries
 
-## Docker Daily use commands
+
+
+
+### Dockerfile
+```Dockerfile
+
+FROM node
+
+COPY . /home/myapp
+
+WORKDIR /home/myapp  
+
+RUN npm install
+
+EXPOSE 7000
+
+CMD ["node","index"] 
+
+```
+
+
+
+### docker vloume
+- The two main types of volumes supported by a default Docker engine installation
+1. **named volumes** 
+- `$ docker volume create todo-db`
+- `$ docker run -dp 127.0.0.1:3000:3000 --mount type=volume,src=todo-db,target=/etc/todos getting-started`
+
+2. **bind mounts**  
+- `$ docker run -it --mount type=bind,src="$(pwd)",target=/src ubuntu bash`
+OR
+`docker run -dp 127.0.0.1:3000:3000 
+   ` -w /app --mount type=bind,src="$(pwd)",target=/app \
+    `node:18-alpine \
+    `sh -c "yarn install && yarn run dev"`
+
+
+###  multi container apps
+-  it's best to run your app in multiple containers.
+- In general, each container should do one thing and do it well.
+![[Pasted image 20231014145852.png]]
+- **container networking**
+   -  Remember that containers, by default, run in isolation and don't know anything about other processes or containers on the same machine.
+   - So, how do you allow one container to talk to another? The answer is networking.
+   - If you place the two containers on the same network, they can talk to each other.
+   - There are two ways to put a container on a network:
+      1.  Assign the network when starting the container.
+      2. Connect an already running container to a network.
+
+### docker compose file
+- docker Compose is a tool that helps you define and share multi-container applications.
+- With Compose, you can create a YAML file to define the services and with a single command, you can spin everything up or tear it all down.
+### docker daily use commands
 
 1.  **docker –version**  
     This command is used to get the currently installed version of docker
