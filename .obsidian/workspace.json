@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROJECTS/Review app.md",
+                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECTS/Review app.md",
+                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECTS/Review app.md"
+                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md"
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECTS/Review app.md",
+                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +153,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e12f42add79068e",
+  "active": "370b27382ec71198",
   "lastOpenFiles": [
-    "PROJECTS/Review app.md",
-    "ENGLISH/WORDS MEANING.md",
+    "Pasted image 20231017183643.png",
+    "PROGRAMMING/EXTRA/3. POSTGRESQL.md",
     "PROGRAMMING/EXTRA/2. NODE JS.md",
+    "PROGRAMMING/LANGUAGE/13. SQL.md",
+    "PROJECTS/Review app.md",
+    "PROJECTS/Target Contribute.md",
+    "PROJECTS/Target Own projects.md",
+    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+    "ENGLISH/WORDS MEANING.md",
     "PROGRAMMING/DEVOPS/DOCKER.md",
     "_resource/Pasted image 20231014145852.png",
     "HOME.md",
@@ -166,7 +171,7 @@
     "INTERVIEW",
     "PROGRAMMING/TOOL TEACH/GRAPH-QL.md",
     "PROGRAMMING/TOOL TEACH/PRISMA.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/5. JAVASCRIPT.md",
+    "PROGRAMMING/LANGUAGE/5. JAVASCRIPT.md",
     "PROGRAMMING/TOOL TEACH/MONGODB.md",
     "_resource/Pasted image 20231009192833.png",
     "PROGRAMMING/TOOL TEACH/Untitled.md",
@@ -180,21 +185,15 @@
     "ISLAMIC/ARBIC",
     "PROGRAMMING/EXTRA/1. CSS.md",
     "PROGRAMMING/EXTRA/CSS 1.md",
-    "PROGRAMMING/EXTRA/3. REACT JS.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/6. PYTHON.md",
-    "PROGRAMMING/PROGRAMMING LANGUAGE/4. JAVA.md",
+    "PROGRAMMING/FRAMEWORK/REACT JS.md",
+    "PROGRAMMING/LANGUAGE/6. PYTHON.md",
+    "PROGRAMMING/LANGUAGE/4. JAVA.md",
     "PROGRAMMING/BASIC/11. COMPUTER NETWORK.md",
-    "PROGRAMMING/BASIC/10. LINUX COMMAND.md",
-    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
-    "PROGRAMMING/BASIC/8. YAML.md",
-    "PROGRAMMING/BASIC/7. DSA.md",
-    "PROGRAMMING/BASIC/6. GIT.md",
-    "PROGRAMMING/CHALLENGES/CP.md",
     "PROGRAMMING/MARKUP LANGUAGE",
     "PROGRAMMING/CHALLENGES",
     "PROGRAMMING",
     "PROGRAMMING/FRAMEWORK",
-    "PROGRAMMING/PROGRAMMING LANGUAGE",
+    "PROGRAMMING/LANGUAGE",
     "PROGRAMMING/EXTRA",
     "z_resource",
     "_resource/react1.png",
