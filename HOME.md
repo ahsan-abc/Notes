@@ -1,39 +1,20 @@
-
-# remote repositories , remote ssh , remote containers  extension
-[[STATE ]]  [[RESEARCH ]] 
-MONEY
-#### TODAY (1 /10/23) @3
-- complete next js 
-- find 5 projects for contribution
-- make twitter clone 
+## 1. CSE
+- *status -  geography*
+- GS1 TO GS 4 + PSYCHOLOGY ONE SHORT 
 
 
 
+## 2. PRORAMMING
+- *status - [no]*
+- FIND PATH 
 
-twitter clone
-*daily make a project copy or technology* 
-*github label meaning and  task and milestone*
-*find hackerthon*
-*live system designing* 
-*live softwere testing manually & automation*
-*aws credit*
-*slider*
-# The stack
-
-|       learing        | projects |              hackerthon              |     |
-|:--------------------:|:--------:|:------------------------------------:| --- |
-|       next js        | biodrop  | (https://hacktoberfest.com/profile/) |     |
-|       node js        |          |                                      |     |
-| softwere engineering |          |                                      |     |
-|   computer network   |          |                                      |     |
-|   operating system   |          |                                      |     |
-|        devops        |          |                                      |     |
-|       go lange       |          |                                      |     |
-|        python        |          |                                      |     |
-|        Django        |          |                                      |     |
-|          js          |          |                                      |     |
-|       react js       |          |                                      |     |
+## 3. ISLAMIC
 
 
+## 4. INTERVIEW
 
 
+## 5. RANDOM
+- *status - [no]*
+- CENTERLIZE DOCUMENT
+-

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37da33a970eb310b",
+        "id": "72200d5bf139c2fe",
         "type": "tabs",
         "children": [
           {
-            "id": "370b27382ec71198",
+            "id": "2352c0ceee79f984",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+                "file": "HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+                "file": "HOME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md"
+                "file": "HOME.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+                "file": "HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,12 +153,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "370b27382ec71198",
+  "active": "2352c0ceee79f984",
   "lastOpenFiles": [
+    "PROGRAMMING/BASIC/5. MARKDOWN.md",
+    "HOME.md",
+    "WORK/RESEARCH.md",
+    "INTERVIEW/Map.md",
+    "WORK/STATE.md",
+    "COLLEGE/SYLLABUS.md",
+    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
     "PROGRAMMING/LANGUAGE/13. SQL.md",
     "PROGRAMMING/BASIC/7. DSA.md",
     "PROGRAMMING/BASIC/8. YAML.md",
-    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
     "Pasted image 20231017183643.png",
     "PROGRAMMING/EXTRA/3. POSTGRESQL.md",
     "PROGRAMMING/EXTRA/2. NODE JS.md",
@@ -168,8 +174,6 @@
     "ENGLISH/WORDS MEANING.md",
     "PROGRAMMING/DEVOPS/DOCKER.md",
     "_resource/Pasted image 20231014145852.png",
-    "HOME.md",
-    "INTERVIEW/Map.md",
     "INTERVIEW",
     "PROGRAMMING/TOOL TEACH/GRAPH-QL.md",
     "PROGRAMMING/TOOL TEACH/PRISMA.md",
@@ -182,14 +186,10 @@
     "ENGLISH",
     "_resource/Pasted image 20231008183221.png",
     "_resource/Capture.jpg",
-    "WORK/RESEARCH.md",
     "ISLAMIC/Untitled 1.md",
     "ISLAMIC/ARBIC",
     "PROGRAMMING/EXTRA/1. CSS.md",
     "PROGRAMMING/EXTRA/CSS 1.md",
-    "PROGRAMMING/FRAMEWORK/REACT JS.md",
-    "PROGRAMMING/LANGUAGE/6. PYTHON.md",
-    "PROGRAMMING/LANGUAGE/4. JAVA.md",
     "PROGRAMMING/MARKUP LANGUAGE",
     "PROGRAMMING/CHALLENGES",
     "PROGRAMMING",

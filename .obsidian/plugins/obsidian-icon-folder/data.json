@@ -32,14 +32,8 @@
     },
     "iconInTabsEnabled": true
   },
-  "COLLEGE": "TiSchool",
-  "COLLEGE/SYLLABUS.md": "SiInstructure",
-  "WORK": "TiTool",
   "ISLAMIC": "FabMosque",
-  "WORK/RESEARCH.md": "TiReportSearch",
-  "WORK/STATE.md": "TiSwitch2",
   "PROJECTS": "SiCodeproject",
-  "HOME.md": "TiHome",
   "ROAD MAP.md": "TiRoad",
   "PROGRAMMING": "SiPixiv",
   "PROGRAMMING/TOOL TEACH": "TiTools",
@@ -84,7 +78,6 @@
   "PROGRAMMING/TOOL TEACH/GRAPH-QL.md": "SiGraphql",
   "PROGRAMMING/TOOL TEACH/PRISMA.md": "IbTriangleUp",
   "ENGLISH": "RiEnglishInput",
-  "INTERVIEW": "LiAlignCenterVertical",
   "PROGRAMMING/LANGUAGE": "FabHardDrive",
   "PROGRAMMING/LANGUAGE/1. ASSEMBLY LANGUAGE.md": "SiLitiengine",
   "PROGRAMMING/LANGUAGE/10. GOLANGE.md": "SiGo",
@@ -100,5 +93,6 @@
   "PROGRAMMING/LANGUAGE/9. RUST.md": "SiRust",
   "PROGRAMMING/LANGUAGE/14. HTML.md": "SiHtml5",
   "PROGRAMMING/FRAMEWORK/REACT JS.md": "SiReact",
-  "PROGRAMMING/EXTRA/3. POSTGRESQL.md": "SiPostgresql"
+  "PROGRAMMING/EXTRA/3. POSTGRESQL.md": "SiPostgresql",
+  "HOME.md": "TiHome"
 }
