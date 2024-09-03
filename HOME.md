@@ -1,20 +1,12 @@
-## 1. CSE
-- *status -  geography*
-- GS1 TO GS 4 + PSYCHOLOGY ONE SHORT 
+## 1. MAIN
 
+- College sem - 6 
+- CSE & CSE entrance
+- Arbic
+- ENglish
 
-
-## 2. PRORAMMING
-- *status - [no]*
-- FIND PATH 
-
-## 3. ISLAMIC
-
-
-## 4. INTERVIEW
-
-
-## 5. RANDOM
-- *status - [no]*
-- CENTERLIZE DOCUMENT
--
+## 2. IN FREE TIME
+- telly
+- power point 
+- Detective
+- hacking
