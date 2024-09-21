@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": "#22c4ec",
     "recentlyUsedIcons": [
+      "SiSpringsecurity",
+      "RiFileExcel2Line",
+      "RiBasketballFill",
       "SiPostgresql",
       "TiSql",
       "LiAlignCenterVertical",
@@ -17,10 +20,7 @@
       "RiMarkupFill",
       "LiVenetianMask",
       "SiElectron",
-      "SiFlutter",
-      "TiBrandReactNative",
-      "SiDotnet",
-      "SiLitiengine"
+      "SiFlutter"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -93,5 +93,8 @@
   "PROGRAMMING/LANGUAGE/14. HTML.md": "SiHtml5",
   "PROGRAMMING/FRAMEWORK/REACT JS.md": "SiReact",
   "PROGRAMMING/EXTRA/3. POSTGRESQL.md": "SiPostgresql",
-  "HOME.md": "TiHome"
+  "HOME.md": "TiHome",
+  "BASIC SKILLS": "RiBasketballFill",
+  "BASIC SKILLS/EXCEL.md": "RiFileExcel2Line",
+  "CYBER SECURITY": "SiSpringsecurity"
 }
