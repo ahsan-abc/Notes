@@ -1,8 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "obsidian-linter",
-  "obsidian-icon-folder",
   "obsidian-git",
   "dataview",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-plugin-todo"
 ]

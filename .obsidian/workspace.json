@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ada0c4d00af3c880",
+        "id": "1730ef656be52626",
         "type": "tabs",
         "children": [
           {
-            "id": "188f9e8e5d7d3ee5",
+            "id": "c2b9751454581301",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "96925b231ef19d6d",
@@ -137,14 +136,20 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "33da277595834143",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,39 +160,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "188f9e8e5d7d3ee5",
+  "active": "58565857a31aac62",
   "lastOpenFiles": [
     "CYBER SECURITY/ROADMAP.md",
-    "CYBER SECURITY",
-    "BASIC SKILLS/EXCEL.md",
+    "modified_image_no_bag.jpg",
+    "_resource/cyber-security_page-0001 (1).jpg",
+    "PROGRAMMING/TOOL TEACH/TAILWINDCSS.md",
+    "TOOL_TEACH.md",
+    "PROGRAMMING/EXTRA/2. NODE JS.md",
+    "PROGRAMMING/CHALLENGES/CP.md",
     "HOME.md",
+    "Untitled.md",
+    "BASIC SKILLS/EXCEL.md",
+    "2024-09-16.md",
+    "PROGRAMMING/BASIC/4. MATH FOR PROGRAMMING.md",
+    "PROGRAMMING/BASIC/1. GITHUB.md",
+    "PROGRAMMING/BASIC/2. DBMS.md",
+    "PROGRAMMING/BASIC/5. MARKDOWN.md",
+    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+    "PROGRAMMING/BASIC/3. SOFTWERE ENGINERING.md",
+    "ISLAMIC/ARBIC/1.MAKHARIJ.md",
+    "CYBER SECURITY",
     "BASIC SKILLS",
     "PROGRAMMING/LANGUAGE/14. HTML.md",
-    "PROGRAMMING/EXTRA/2. NODE JS.md",
     "PROGRAMMING/EXTRA/1. CSS.md",
     "WEB_DEVLOPMENT.md",
-    "PROGRAMMING/BASIC/5. MARKDOWN.md",
     "WORK/RESEARCH.md",
     "INTERVIEW/Map.md",
     "WORK/STATE.md",
     "COLLEGE/SYLLABUS.md",
-    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
     "PROGRAMMING/LANGUAGE/13. SQL.md",
     "PROGRAMMING/BASIC/7. DSA.md",
-    "PROGRAMMING/BASIC/8. YAML.md",
     "Pasted image 20231017183643.png",
-    "PROGRAMMING/EXTRA/3. POSTGRESQL.md",
-    "PROJECTS/Review app.md",
-    "PROJECTS/Target Contribute.md",
-    "PROJECTS/Target Own projects.md",
-    "ENGLISH/WORDS MEANING.md",
-    "PROGRAMMING/DEVOPS/DOCKER.md",
     "_resource/Pasted image 20231014145852.png",
     "INTERVIEW",
-    "PROGRAMMING/TOOL TEACH/GRAPH-QL.md",
-    "PROGRAMMING/TOOL TEACH/PRISMA.md",
-    "PROGRAMMING/LANGUAGE/5. JAVASCRIPT.md",
-    "PROGRAMMING/TOOL TEACH/MONGODB.md",
     "_resource/Pasted image 20231009192833.png",
     "_resource/Pasted image 20231009091700.png",
     "ENGLISH",
@@ -201,8 +207,6 @@
     "PROGRAMMING/LANGUAGE",
     "_resource/react1.png",
     "_resource/Pasted image 20230928101701.png",
-    "_resource/Pasted image 20230928105443.png",
-    "_resource/Pasted image 20230925154112.png",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"

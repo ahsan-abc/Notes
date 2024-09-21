@@ -1,10 +1,7 @@
 
-
 ## TODO
 - sim airtel
 - name change
-
-
 
 ## LLB 
 ### entrance
