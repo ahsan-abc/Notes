@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1730ef656be52626",
+        "id": "49cd847aa903ad86",
         "type": "tabs",
         "children": [
           {
-            "id": "c2b9751454581301",
+            "id": "a71f21f5cd6319f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,14 +160,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58565857a31aac62",
+  "active": "a71f21f5cd6319f0",
   "lastOpenFiles": [
+    "PROGRAMMING/EXTRA/2. NODE JS.md",
+    "PROGRAMMING/TOOL TEACH/MONGODB.md",
+    "PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
+    "PROGRAMMING/TOOL TEACH/TYPESCRIPT.md",
+    "PROGRAMMING/TOOL TEACH/NPM.md",
+    "PROGRAMMING/TOOL TEACH/PNPM.md",
     "CYBER SECURITY/ROADMAP.md",
     "modified_image_no_bag.jpg",
     "_resource/cyber-security_page-0001 (1).jpg",
     "PROGRAMMING/TOOL TEACH/TAILWINDCSS.md",
     "TOOL_TEACH.md",
-    "PROGRAMMING/EXTRA/2. NODE JS.md",
     "PROGRAMMING/CHALLENGES/CP.md",
     "HOME.md",
     "Untitled.md",
@@ -187,10 +192,6 @@
     "WEB_DEVLOPMENT.md",
     "WORK/RESEARCH.md",
     "INTERVIEW/Map.md",
-    "WORK/STATE.md",
-    "COLLEGE/SYLLABUS.md",
-    "PROGRAMMING/LANGUAGE/13. SQL.md",
-    "PROGRAMMING/BASIC/7. DSA.md",
     "Pasted image 20231017183643.png",
     "_resource/Pasted image 20231014145852.png",
     "INTERVIEW",
