@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBER SECURITY/ROADMAP.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fireb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CYBER SECURITY/ROADMAP.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBER SECURITY/ROADMAP.md"
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md"
               }
             }
           },
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CYBER SECURITY/ROADMAP.md",
+                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,15 +161,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a71f21f5cd6319f0",
+  "active": "5e12f42add79068e",
   "lastOpenFiles": [
+    "_resource/Pasted image 20240923111336.png",
+    "CYBER SECURITY/ROADMAP.md",
     "PROGRAMMING/EXTRA/2. NODE JS.md",
     "PROGRAMMING/TOOL TEACH/MONGODB.md",
     "PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
     "PROGRAMMING/TOOL TEACH/TYPESCRIPT.md",
     "PROGRAMMING/TOOL TEACH/NPM.md",
     "PROGRAMMING/TOOL TEACH/PNPM.md",
-    "CYBER SECURITY/ROADMAP.md",
     "modified_image_no_bag.jpg",
     "_resource/cyber-security_page-0001 (1).jpg",
     "PROGRAMMING/TOOL TEACH/TAILWINDCSS.md",
@@ -191,7 +193,6 @@
     "PROGRAMMING/EXTRA/1. CSS.md",
     "WEB_DEVLOPMENT.md",
     "WORK/RESEARCH.md",
-    "INTERVIEW/Map.md",
     "Pasted image 20231017183643.png",
     "_resource/Pasted image 20231014145852.png",
     "INTERVIEW",

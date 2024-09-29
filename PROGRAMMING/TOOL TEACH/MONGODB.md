@@ -14,7 +14,7 @@ app.use(bodyParse());
 app.use(cors());
 
 // connect  with mongodb
-mongoose.connect("mongodb://127.0.0.1:27017/mydb")
+mongoose.connect("mongodb://127.0.0.1:27017/mydb" or "mongodb+srv://<user name>:<Db_password>@cluster0.myskyxj.mongodb.net/<database_name>?retryWrites=true&w=majority&appName=Cluster0")
   .then(() => console.log("connect to db"))
   .catch((error) => {
 
@@ -29,7 +29,7 @@ const userSchema = new mongoose.Schema({
   gender: String,
   programmer: Boolean,
 });
-const User = mongoose.model("users", userSchema); // model
+const User = mongoose.model("collections", userSchema); // model
 
   
 //routes
@@ -57,3 +57,5 @@ app.listen(3000, () => {
 ```
 
 
+## Mogodb Atlas
+![[Pasted image 20240923111336.png]]
