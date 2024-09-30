@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md"
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md"
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROGRAMMING/TOOL TEACH/MONGODB.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,36 +160,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e12f42add79068e",
+  "active": "a71f21f5cd6319f0",
   "lastOpenFiles": [
+    "4.CYBER SECURITY/ROADMAP.md",
+    "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
+    "2.BASICS/COMPUTER ARCHITECTURE",
+    "HOME.md",
+    "TOOL_TEACH.md",
+    "Untitled",
+    "1.MATHMATICS",
+    "2.BASICS",
+    "OTHERS",
+    "3.PROGRAMMING/TOOL TEACH/MONGODB.md",
     "_resource/Pasted image 20240923111336.png",
-    "CYBER SECURITY/ROADMAP.md",
-    "PROGRAMMING/EXTRA/2. NODE JS.md",
-    "PROGRAMMING/TOOL TEACH/MONGODB.md",
-    "PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
-    "PROGRAMMING/TOOL TEACH/TYPESCRIPT.md",
-    "PROGRAMMING/TOOL TEACH/NPM.md",
-    "PROGRAMMING/TOOL TEACH/PNPM.md",
+    "3.PROGRAMMING/EXTRA/2. NODE JS.md",
+    "3.PROGRAMMING/TOOL TEACH/IMP-LIBRARIES-NODE.md",
+    "3.PROGRAMMING/TOOL TEACH/TYPESCRIPT.md",
+    "3.PROGRAMMING/TOOL TEACH/NPM.md",
+    "3.PROGRAMMING/TOOL TEACH/PNPM.md",
     "modified_image_no_bag.jpg",
     "_resource/cyber-security_page-0001 (1).jpg",
-    "PROGRAMMING/TOOL TEACH/TAILWINDCSS.md",
-    "TOOL_TEACH.md",
+    "3.PROGRAMMING/TOOL TEACH/TAILWINDCSS.md",
     "PROGRAMMING/CHALLENGES/CP.md",
-    "HOME.md",
     "Untitled.md",
-    "BASIC SKILLS/EXCEL.md",
+    "OTHERS/BASIC SKILLS/EXCEL.md",
     "2024-09-16.md",
-    "PROGRAMMING/BASIC/4. MATH FOR PROGRAMMING.md",
-    "PROGRAMMING/BASIC/1. GITHUB.md",
-    "PROGRAMMING/BASIC/2. DBMS.md",
-    "PROGRAMMING/BASIC/5. MARKDOWN.md",
-    "PROGRAMMING/BASIC/9. OPEN SOURCE.md",
-    "PROGRAMMING/BASIC/3. SOFTWERE ENGINERING.md",
-    "ISLAMIC/ARBIC/1.MAKHARIJ.md",
-    "CYBER SECURITY",
-    "BASIC SKILLS",
-    "PROGRAMMING/LANGUAGE/14. HTML.md",
-    "PROGRAMMING/EXTRA/1. CSS.md",
+    "3.PROGRAMMING/BASIC/4. MATH FOR PROGRAMMING.md",
+    "3.PROGRAMMING/BASIC/1. GITHUB.md",
+    "3.PROGRAMMING/BASIC/2. DBMS.md",
+    "3.PROGRAMMING/BASIC/5. MARKDOWN.md",
+    "3.PROGRAMMING/BASIC/9. OPEN SOURCE.md",
+    "3.PROGRAMMING/BASIC/3. SOFTWERE ENGINERING.md",
+    "PROJECTS/ISLAMIC/ARBIC/1.MAKHARIJ.md",
+    "4.CYBER SECURITY",
+    "OTHERS/BASIC SKILLS",
+    "3.PROGRAMMING/LANGUAGE/14. HTML.md",
+    "3.PROGRAMMING/EXTRA/1. CSS.md",
     "WEB_DEVLOPMENT.md",
     "WORK/RESEARCH.md",
     "Pasted image 20231017183643.png",
@@ -201,14 +206,8 @@
     "ENGLISH",
     "_resource/Pasted image 20231008183221.png",
     "_resource/Capture.jpg",
-    "ISLAMIC/ARBIC",
-    "PROGRAMMING/MARKUP LANGUAGE",
-    "PROGRAMMING/CHALLENGES",
-    "PROGRAMMING",
-    "PROGRAMMING/FRAMEWORK",
-    "PROGRAMMING/LANGUAGE",
+    "PROJECTS/ISLAMIC/ARBIC",
     "_resource/react1.png",
-    "_resource/Pasted image 20230928101701.png",
     "_resource/Untitled 1 1.canvas",
     "_resource/Untitled 1.canvas",
     "_resource/Untitled.canvas"
