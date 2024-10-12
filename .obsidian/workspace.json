@@ -8,29 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c6eec5073e06b04",
+            "id": "df03de04e7b719f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/(I) INTRO/Introduction to Computer Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "0ebab8668211988d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/(II) Architecture- Software Interface/The Language of Bits.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a70e047ddcfe91aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.CYBER SECURITY/ROADMAP.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "df03de04e7b719f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2024-10-03 00.35.38.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 299.5
   },
   "right": {
     "id": "96925b231ef19d6d",
@@ -96,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drawing 2024-10-03 00.35.38.excalidraw.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drawing 2024-10-03 00.35.38.excalidraw.md"
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md"
               }
             }
           },
@@ -137,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drawing 2024-10-03 00.35.38.excalidraw.md",
+                "file": "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,11 +189,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df03de04e7b719f4",
+  "active": "a70e047ddcfe91aa",
   "lastOpenFiles": [
-    "4.CYBER SECURITY/ROADMAP.md",
-    "Drawing 2024-10-03 00.35.38.excalidraw.md",
     "4.CYBER SECURITY/BEGINNER LEVEL/syllabus.md",
+    "HOME.md",
+    "TOOL_TEACH.md",
+    "2.BASICS/COMPUTER ARCHITECTURE/(II) Architecture- Software Interface/The Language of Bits.md",
+    "2.BASICS/COMPUTER ARCHITECTURE/(I) INTRO/Introduction to Computer Architecture.md",
+    "2.BASICS/COMPUTER ARCHITECTURE/(V) Appendix",
+    "2.BASICS/COMPUTER ARCHITECTURE/(IV) Organisation - System Design",
+    "2.BASICS/COMPUTER ARCHITECTURE/(III) Organisation -  Processor Design",
+    "2.BASICS/COMPUTER ARCHITECTURE/(II) Architecture- Software Interface",
+    "2.BASICS/COMPUTER ARCHITECTURE/(I) INTRO/Untitled",
+    "Drawing 2024-10-03 00.35.38.excalidraw.md",
+    "2.BASICS/COMPUTER ARCHITECTURE/(I) INTRO",
+    "4.CYBER SECURITY/ROADMAP.md",
     "2.BASICS/COMPUTER ARCHITECTURE/syllabus.md",
     "4.CYBER SECURITY/BEGINNER LEVEL/noname.md",
     "3.PROGRAMMING/BASIC/6. GIT.md",
@@ -185,12 +213,8 @@
     "4.CYBER SECURITY/BEGINNER LEVEL",
     "3.PROGRAMMING/LANGUAGE/1. ASSEMBLY LANGUAGE.md",
     "2.BASICS/COMPUTER ARCHITECTURE",
-    "HOME.md",
-    "TOOL_TEACH.md",
     "Untitled",
     "1.MATHMATICS",
-    "2.BASICS",
-    "OTHERS",
     "3.PROGRAMMING/TOOL TEACH/MONGODB.md",
     "_resource/Pasted image 20240923111336.png",
     "3.PROGRAMMING/EXTRA/2. NODE JS.md",
@@ -206,16 +230,10 @@
     "2024-09-16.md",
     "3.PROGRAMMING/BASIC/4. MATH FOR PROGRAMMING.md",
     "3.PROGRAMMING/BASIC/1. GITHUB.md",
-    "3.PROGRAMMING/BASIC/2. DBMS.md",
-    "3.PROGRAMMING/BASIC/5. MARKDOWN.md",
-    "4.CYBER SECURITY",
-    "OTHERS/BASIC SKILLS",
     "Pasted image 20231017183643.png",
     "_resource/Pasted image 20231014145852.png",
-    "INTERVIEW",
     "_resource/Pasted image 20231009192833.png",
     "_resource/Pasted image 20231009091700.png",
-    "ENGLISH",
     "_resource/Pasted image 20231008183221.png",
     "_resource/Capture.jpg",
     "_resource/react1.png",
